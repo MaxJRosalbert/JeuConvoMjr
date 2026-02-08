@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Site GitHub"
+		}
+	],
+	"settings": {
+		"chat.agent.maxRequests": 100
+	}
+}
